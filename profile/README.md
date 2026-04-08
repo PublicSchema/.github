@@ -1,8 +1,8 @@
 # PublicSchema
 
-**A schema.org-style vocabulary of concepts, properties, and controlled value sets for government service delivery.**
+**Common definitions for public service delivery.** Built so programs can coordinate, share data, and reach the people they serve.
 
-PublicSchema gives governments, development organizations, and technology partners a shared language for describing people, programs, enrollments, payments, and the other building blocks of service delivery. Starting with social protection, extending to broader government services over time.
+PublicSchema gives governments, development organizations, and technology partners a shared language for describing people, programs, enrollments, payments, and the other building blocks of service delivery.
 
 ## What's in the vocabulary
 
